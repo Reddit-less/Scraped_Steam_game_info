@@ -1,0 +1,898 @@
+[
+    {
+        "name": "Sons Of The Forest",
+        "description": "Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: 64-bit Windows 10 Processor: INTEL CORE I5-8400 or AMD RYZEN 3 3300X Memory: 12 GB RAM Graphics: NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 570 4GB DirectX: Version 11 Storage: 20 GB available space Additional Notes: SSD (Preferred)",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: 64-bit Windows 10 Processor: INTEL CORE I7-8700K or AMD RYZEN 5 3600X Memory: 16 GB RAM Graphics: NVIDIA GeForce 1080Ti or AMD Radeon RX 5700 XT DirectX: Version 11 Storage: 20 GB available space Additional Notes: SSD (Preferred)"
+            }
+        }
+    },
+    {
+        "name": "Football Manager 2024",
+        "description": "Build a world-class team ready to dominate your rivals in football s most prestigious competitions. Progress never stops when you re pursuing footballing greatness.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10/11 with updates - 64 bit Processor: Intel Core 2 or AMD Athlon 64 X2 Memory: 4 GB RAM Graphics: Intel GMA X4500, NVIDIA GeForce 9600M GT, AMD/ATI Mobility Radeon HD 3650 - requires 256MB VRAM and DirectX 11 DirectX: Version 11 Storage: 7 GB available space Additional Notes: Display: 1024x768. Performance scales with higher-end systems.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: 11/12/13 with updates Processor: Apple M1 or Intel Core M Memory: 4 GB RAM Graphics: Apple M1, Intel HD Graphics 5000, NVIDIA GeForce GT 750M - requires 256MB VRAM and Metal Storage: 7 GB available space",
+                "Recommended": "Recommended:"
+            }
+        }
+    },
+    {
+        "name": "Euro Truck Simulator 2",
+        "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS *: Windows 7 Processor: Intel Core i5-6400 or AMD Ryzen 3 1200 or similar Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM) Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)",
+                "Recommended": "Recommended: OS *: Windows 7/8.1/10 64-bit Processor: Intel Core i5-9600 or AMD Ryzen 5 3600 or similar Memory: 12 GB RAM Graphics: NVIDIA GeForce GTX 1660 or AMD Radeon RX 590 (2GB VRAM) Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: Mac OS X 10.9 (Mavericks) Processor: Quad core CPU 3.3 GHz Memory: 8 GB RAM Graphics: Intel HD 630 or similar (2GB VRAM) Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)",
+                "Recommended": "Recommended: OS: Mac OS X 10.10 (Yosemite) Processor: Quad core CPU 4.6 GHz Memory: 12 GB RAM Graphics: NVIDIA GeForce GTX 1660 or similar (2 GB VRAM) Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game)"
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: Linux Ubuntu 12.04 Processor: Quad core CPU 3.3 GHz Memory: 8 GB RAM Graphics: Intel HD 630 or similar (2GB VRAM) Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game) Additional Notes: recent binary ATI or NVidia drivers (MESA may not work reliably)",
+                "Recommended": "Recommended: OS: Linux Ubuntu 12.04 Processor: Quad core CPU 4.6 GHz Memory: 12 GB RAM Graphics: NVIDIA GeForce GTX 1660 or similar (2 GB VRAM) Hard Drive: 25 GB available space (Euro Truck Simulator 2 base game) Additional Notes: recent binary ATI or NVidia drivers (MESA may not work reliably)"
+            }
+        }
+    },
+    {
+        "name": "The Elder Scrolls Online",
+        "description": "Join over 22 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 7 64-bit Processor: Intel Core i3 540 or AMD A6-3620 or higher Memory: 3 GB RAM Graphics: Direct X 11.0 compliant video card with 1GB RAM (NVidia GeForce 460 or AMD Radeon 6850) DirectX: Version 11 Network: Broadband Internet connection Storage: 95 GB available space Sound Card: DirectX compatible sound card",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS *: Windows 7/Windows 8.1 64-bit Processor: Intel Core i5 2300 or AMD FX4350 Memory: 8 GB RAM Graphics: Direct X 11.0 compliant video card with 2GB RAM (NVIDIA GeForce GTX 750 or AMD Radeon HD 7850) or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 95 GB available space Sound Card: DirectX compatible sound card"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: Mac High Sierra v 10.13 Processor: Intel Core 2 Duo processor Memory: 4 GB RAM Graphics: AMD Radeon Pro 560 graphics (4GB of VRAM) Network: Broadband Internet connection Storage: 95 GB available space Additional Notes: OpenGL: 4.1",
+                "Recommended": "Recommended: OS: Mac High Sierra v 10.13 Processor: Intel i5 processor Memory: 4 GB RAM Graphics: AMD Radeon Pro 560 graphics (4GB of VRAM) Network: Broadband Internet connection Storage: 95 GB available space Additional Notes: OpenGL: 4.1"
+            }
+        }
+    },
+    {
+        "name": "STAR WARS : Battlefront Classic Collection",
+        "description": "Play the classic STAR WARS Battlefront games, online and offline in this definitive collection.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 8 Processor: Intel Core i3-3220 Memory: 4 GB RAM Graphics: 2GB GTX 750 DirectX: Version 12 Network: Broadband Internet connection Storage: 50 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system"
+            }
+        }
+    },
+    {
+        "name": "RoboCop: Rogue City",
+        "description": "Become the legendary part man, part machine, all cop hero and deliver justice in Old Detroit.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7-4790 or Ryzen 5 2600 Memory: 16 GB RAM Graphics: Intel Arc A380 or NVIDIA GeForce GTX 1650, 4 GB or AMD Radeon RX 480, 4 GB Storage: 51 GB available space Additional Notes: Requires a 64-bit processor and operating system",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7-10700K or AMD Ryzen 7 3800XT Memory: 16 GB RAM Graphics: Intel Arc A770 or NVIDIA GeForce RTX 3070, 8 GB or AMD Radeon RX 6800, 16 GB Storage: 51 GB available space Additional Notes: Requires a 64-bit processor and operating system"
+            }
+        }
+    },
+    {
+        "name": "PowerWash Simulator",
+        "description": "Release the Pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find, all with the simple satisfaction of power-washing to a sparkling finish.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 8 (64-bit) or newer Processor: Intel i5-760 (4*2800), AMD Phenom II Memory: 4 GB RAM Graphics: GeForce GTX 760, AMD R7-260X DirectX: Version 11 Storage: 6 GB available space Additional Notes: Requires a 64-bit processor and operating system",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system"
+            }
+        }
+    },
+    {
+        "name": "Horizon Zero Dawn Complete Edition",
+        "description": "Experience Aloy s legendary quest to unravel the mysteries of a future Earth ruled by Machines. Use devastating tactical attacks against your prey and explore a majestic open world in this award-winning action RPG!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-bits Processor: Intel Core i5-2500K@3.3GHz or AMD FX 6300@3.5GHz Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 780 (3 GB) or AMD Radeon R9 290 (4GB) DirectX: Version 12 Storage: 100 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-bits Processor: Intel Core i7-4770K@3.5GHz or Ryzen 5 1500X@3.5GHz Memory: 16 GB RAM Graphics: Nvidia GeForce GTX 1060 (6 GB) or AMD Radeon RX 580 (8GB) DirectX: Version 12 Storage: 100 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Nightingale",
+        "description": "Set out on a journey of survival and adventure, into the mysterious and dangerous Fae Realms of Nightingale! Become an intrepid Realmwalker, and venture forth alone or with friends - as you explore, craft, build and fight across a visually stunning Gaslamp Fantasy world.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-Bit (see additional notes) Processor: Intel Core i5-4430 Memory: 16 GB RAM Graphics: Nvidia GeForce GTX 1060, Radeon RX 580 or Intel Arc A580 DirectX: Version 12 Network: Broadband Internet connection Storage: 70 GB available space Additional Notes: Internet connection required to play. SSD required. Windows 10 version 1909 (revision 18363.1350 or greater). Version 2004 (revision 19041.789 or greater). Version 20H2 (revision 19042.789 or greater).",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-Bit (see additional notes) Processor: Intel Core i5-8600 Memory: 16 GB RAM Graphics: GeForce RTX 2060 Super / Radeon RX 5700XT DirectX: Version 12 Network: Broadband Internet connection Storage: 70 GB available space Additional Notes: Internet connection required to play. SSD required. Windows 10 version 1909 (revision 18363.1350 or greater). Version 2004 (revision 19041.789 or greater). Version 20H2 (revision 19042.789 or greater)."
+            }
+        }
+    },
+    {
+        "name": "Age of Wonders 4",
+        "description": "Rule a fantasy realm of your own design! Explore new magical realms in Age of Wonders signature blend of 4X strategy and turn-based tactical combat. Control a faction that grows and changes as you expand your empire with each turn!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Home 64 Bit (version 21H1) Processor: Intel Core i5-2500K or AMD Ryzen 5 1600X Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 670 (2GB) or AMD Radeon HD 7870 (2GB) or Intel Arc A380 (6GB) or Intel Iris Xe G7 (Tiger Lake) or AMD Radeon Vega 8 DirectX: Version 12 Storage: 20 GB available space Additional Notes: 1080p (30FPS)",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Home 64 Bit or Windows 11 (latest) Processor: Intel Core i7-9700K or AMD Ryzen 5 5600X Memory: 16 GB RAM Graphics: Nvidia GeForce GTX 1070 Ti (8GB) or AMD Radeon RX 5700 XT (8GB) DirectX: Version 12 Storage: >20 GB available space Additional Notes: 1080p (60FPS)"
+            }
+        }
+    },
+    {
+        "name": "PUBG: BATTLEGROUNDS",
+        "description": "Play PUBG: BATTLEGROUNDS for free. Land on strategic locations, loot weapons and supplies, and survive to become the last team standing across various, diverse Battlegrounds. Squad up and join the Battlegrounds for the original Battle Royale experience that only PUBG: BATTLEGROUNDS can offer.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: 64-bit Windows 10 Processor: Intel Core i5-4430 / AMD FX-6300 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB DirectX: Version 11 Network: Broadband Internet connection Storage: 40 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: 64-bit Windows 10 Processor: Intel Core i5-6600K / AMD Ryzen 5 1600 Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB DirectX: Version 11 Network: Broadband Internet connection Storage: 50 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Le Mans Ultimate",
+        "description": "Le Mans is a continually evolving story... powered by emotion, speed and glory. Le Mans Ultimate - the official game of the FIA World Endurance Championship and 24 Hours of Le Mans.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows 10 or 11 Processor: Intel Core i5-4460 or AMD FX-8120 Memory: 8 GB RAM Graphics: nVidia GeForce GTX 950 (4GB) or AMD Radeon RX 470 DirectX: Version 11 Network: Broadband Internet connection Storage: 30 GB available space Sound Card: DirectX Compatible Additional Notes: To run on minimal settings at 1080p",
+                "Recommended": "Recommended: OS: Windows 10 or 11 Processor: Intel Core i5-9600 or AMD Ryzen 5 3600X Memory: 16 GB RAM Graphics: GeForce GTX 1070 8 GB, Radeon RX 580 8GB DirectX: Version 11 Storage: 30 GB available space Sound Card: DirectX Compatible Additional Notes: To run on default settings at 1080p"
+            }
+        }
+    },
+    {
+        "name": "Team Fortress 2",
+        "description": "Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS *: Windows 7 (32/64-bit)/Vista/XP Processor: 1.7 GHz Processor or better Memory: 512 MB RAM DirectX: Version 8.1 Network: Broadband Internet connection Storage: 15 GB available space",
+                "Recommended": "Recommended: OS *: Windows 7 (32/64-bit) Processor: Pentium 4 processor (3.0GHz, or better) Memory: 1 GB RAM DirectX: Version 9.0c Network: Broadband Internet connection Storage: 15 GB available space"
+            },
+            "Mac": {
+                "Minimum": "",
+                "Recommended": ""
+            },
+            "Linux": {
+                "Minimum": "",
+                "Recommended": ""
+            }
+        }
+    },
+    {
+        "name": "Deep Rock Galactic: Survivor",
+        "description": "Deep Rock Galactic: Survivor is a single player survivor-like auto-shooter. Wield the full arsenal of Deep Rock Galactic, take on hordes of lethal aliens, mine riches, and unlock powerful upgrades. It's one dwarf against all of Planet Hoxxes!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Win 10 Processor: Intel i5-4590 or similar Memory: 8 GB RAM Graphics: Geforce GTX 1050 or similar Storage: 2 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system"
+            }
+        }
+    },
+    {
+        "name": "TEKKEN 8",
+        "description": "Get ready for the next chapter in the legendary fighting game franchise, TEKKEN 8.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-Bit Processor: Intel Core i5-6600K/AMD Ryzen 5 1600 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 1050Ti/AMD Radeon R9 380X DirectX: Version 12 Network: Broadband Internet connection Storage: 100 GB available space Sound Card: DirectX compatible soundcard/Onboard chipset Additional Notes: *\"FPS (frame rate/second): Stable over 60\" is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-Bit Processor: Intel Core i7-7700K/AMD Ryzen 5 2600 Memory: 16 GB RAM Graphics: Nvidia GeForce RTX 2070/AMD Radeon RX 5700 XT DirectX: Version 12 Network: Broadband Internet connection Storage: 100 GB available space Sound Card: DirectX compatible soundcard/Onboard chipset Additional Notes: *\"FPS (frame rate/second): Stable over 60\" is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice."
+            }
+        }
+    },
+    {
+        "name": "Age of Empires IV: Anniversary Edition",
+        "description": "Celebrating its first year of delighting millions of global players, the award-winning and best-selling strategy franchise continues with Age of Empires IV: Anniversary Edition, putting you at the center of even more epic historical battles that shaped the world.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64bit | Windows 11 64bit Processor: Intel Core i5-6300U or AMD Ryzen 5 2400G | CPU with AVX support required Memory: 8 GB RAM Graphics: Intel HD 520 or AMD Radeon RX Vega 11 DirectX: Version 12 Storage: 50 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64bit | Windows 11 64bit Processor: 3.6 GHz 6-core (Intel i5) or AMD Ryzen 5 1600 | CPU with AVX support required Memory: 16 GB RAM Graphics: Nvidia GeForce 970 GPU or AMD Radeon RX 570 GPU with 4GB of VRAM DirectX: Version 12 Storage: 50 GB available space Additional Notes: 4 GB of video RAM and 16 GB of system RAM"
+            }
+        }
+    },
+    {
+        "name": "Middle-earth : Shadow of War",
+        "description": "Experience an epic open-world brought to life by the award-winning Nemesis System. Forge a new Ring of Power, conquer Fortresses in massive battles and dominate Mordor with your personal orc army in Middle-earth : Shadow of War .",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 7 SP1 with Platform Update Processor: AMD FX-4350, 4.2 GHz / Intel Core i5-2300, 2.80 GHz Memory: 6 GB RAM Graphics: AMD HD 7870, 2 GB / NVIDIA GTX 660, 2 GB DirectX: Version 11 Network: Broadband Internet connection Storage: 70 GB available space Additional Notes: X64 required",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Creators Update Processor: AMD FX-8350, 4.0 GHz / Intel Core i7-3770, 3.4 GHz Memory: 12 GB RAM Graphics: AMD RX 480, 4 GB or RX580, 4GB / NVIDIA GTX 970, 4GB or GTX1060, 6GB DirectX: Version 11 Network: Broadband Internet connection Storage: 70 GB available space Additional Notes: X64 required"
+            }
+        }
+    },
+    {
+        "name": "Lost Ark",
+        "description": "Embark on an odyssey for the Lost Ark in a vast, vibrant world: explore new lands, seek out lost treasures, and test yourself in thrilling action combat in this action-packed free-to-play RPG.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 (64-bit only) Processor: Intel i3 or AMD Ryzen 3 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 460 / AMD HD6850 DirectX: Version 11 Network: Broadband Internet connection Storage: 60 GB available space Additional Notes: Internet connection required to play, offers in-game purchases. System requirements for this game may change over time.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 (64-bit only) Processor: Intel i5 or AMD Ryzen 5 Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1050 / AMD Radeon RX560 2G DirectX: Version 11 Network: Broadband Internet connection Storage: 60 GB available space Additional Notes: Internet connection required to play, offers in-game purchases. System requirements for this game may change over time."
+            }
+        }
+    },
+    {
+        "name": "Lethal Company",
+        "description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5-7400 CPU @ 3.00GHz ; Shader Model 5 Graphics: NVIDIA GForce GTX 1050 DirectX: Version 11 Network: Broadband Internet connection Storage: 1 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system"
+            }
+        }
+    },
+    {
+        "name": "F1 24",
+        "description": "Get closer to the grid like never before with EA SPORTS F1 24. LIMITED TIME ONLY Pre-order* F1 24 Champions Edition by April 24th, 2024 and receive 2024 liveries and esports liveries in F1 23 and much more!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Version 21H1 or newer Processor: Intel Core i3-2130 | Core i5-9600k (VR) or AMD FX 4300 | Ryzen 5 2600X (VR) Memory: 8 GB RAM Graphics: NVIDIA GTX 1060 (6GB) | GTX 1660Ti (VR) | RTX 2060 (RT) // AMD RX 480 (8GB) | RX 590 (VR) | 6700XT (RT) // Intel Arc A380 (VR/RT) DirectX: Version 12 Network: Broadband Internet connection Storage: 100 GB available space Sound Card: Direct X Compatible VR Support: Keyboard and mouse required Additional Notes: GPU must support D3D_SHADER_MODEL_6_6.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Version 21H1 or newer Processor: Intel Core i5-9600k or AMD Ryzen 5 2600X Memory: 16 GB RAM Graphics: NVIDIA RTX 2070 (+VR) | RTX 3070 (RT) // AMD RX 6600XT | RX 6700XT (VR) | RX 6800 (RT) // Intel Arc A580 (VR/RT) DirectX: Version 12 Network: Broadband Internet connection Storage: 100 GB available space Sound Card: Direct X Compatible VR Support: Keyboard and mouse required Additional Notes: GPU must support D3D_SHADER_MODEL_6_6."
+            }
+        }
+    },
+    {
+        "name": "The Sims 4",
+        "description": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that s wholly unique. Explore and customize every detail from Sims to homes and much more.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: 64 Bit Required. Windows 10 Processor: 3.3 GHz Intel Core i3-3220 (2 cores, 4 threads), AMD Ryzen 3 1200 3.1 GHz (4 cores) or better Memory: 4 GB RAM Graphics: 128 MB of Video RAM and support for Pixel Shader 3.0. Supported Video Cards: NVIDIA GeForce 6600 or better, ATI Radeon X1300 or better, Intel GMA X4500 or better DirectX: Version 11 Network: Broadband Internet connection Storage: 26 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: 64 Bit Windows 10 Processor: Intel core i5 (4 cores), AMD Ryzen 5 or better Memory: 8 GB RAM Graphics: 1 GB of Video RAM, NVIDIA GTX 650, AMD Radeon HD 7750, or better DirectX: Version 11 Network: Broadband Internet connection Storage: 51 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Sid Meier s Civilization VI",
+        "description": "Civilization VI is the newest installment in the award winning Civilization Franchise. Expand your empire, advance your culture and go head-to-head against history s greatest leaders. Will your civilization stand the test of time?",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 7x64 / Windows 8.1x64 / Windows 10x64 Processor: Intel Core i3 2.5 Ghz or AMD Phenom II 2.6 Ghz or greater Memory: 4 GB RAM Graphics: 1 GB & AMD 5570 or nVidia 450 or Intel Integrated Graphics 530 DirectX: Version 11 Storage: 17 GB available space Sound Card: DirectX Compatible Sound Device Additional Notes: Initial installation requires one-time Internet connection for Steam authentication; software installations required (included with the game) include Steam Client, Microsoft Visual C++ 2012 and 2015 Runtime Libraries, and Microsoft DirectX. Internet connection and acceptance of Steam Subscriber Agreement required for activation. See www.steampowered.com/agreement for details.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS *: Windows 7x64 / Windows 8.1x64 / Windows 10x64 Processor: Fourth Generation Intel Core i5 2.5 Ghz or AMD FX8350 4.0 Ghz or greater Memory: 8 GB RAM Graphics: 2GB & AMD 7970 or nVidia 770 or greater DirectX: Version 11 Storage: 23 GB available space Sound Card: DirectX Compatible Sound Device"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: 10.14.6 (Mojave) Processor: Intel Core i5 2.7Ghz Memory: 6 GB RAM Graphics: 1 GB GPU Minimum - GeForce 775M | Radeon HD 6970 | Intel Iris Pro Storage: 17 GB available space Additional Notes: NOTICE: It is possible for Mac and PC to become out of sync during updates or patches. Within this time period, Mac users will only be able to play other Mac users.",
+                "Recommended": "Recommended:"
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: Ubuntu 16.04 (64bit) Processor: Intel Core i3 530 or AMD A8-3870 Memory: 6 GB RAM Graphics: 1 GB VRAM Minimum - NVIDIA GeForce 650 Storage: 17 GB available space Additional Notes: IMPORTANT NOTICE: Some Intel i3 Processors may require an additional 2 GB Swap Partition. IMPORTANT NOTICE: ATI and INTEL chipsets are NOT supported to run Civilization VI LINUX. Don't meet the above requirements? Running on a unique distro? That doesn't mean your configuration wont run Civ VI! Visit the Civilization VI community page to share your experience with other Linux players and learn about how to send bugs to Aspyr. Your feedback will help us improve Civ VI Linux and future AAA Linux releases!",
+                "Recommended": "Recommended:"
+            }
+        }
+    },
+    {
+        "name": "Hearts of Iron IV",
+        "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows 10 Home 64 Bit Processor: Intel Core i5 750 | AMD FX 4300 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 470 (1.28GB) | AMD HD 5850 (1GB) | Intel Iris Xe G7 (Tiger Lake) | AMD Radeon RX Vega 11 DirectX: Version 9.0c Storage: 2 GB available space Sound Card: Direct X- compatible soundcard. Additional Notes: Mouse and keyboard are required. / Latest available WHQL drivers from both manufacturers/ Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode.",
+                "Recommended": "Recommended: OS: Windows 10 Home 64 bit Processor: Intel Core i5 2500K | AMD Ryzen 3 2200G Memory: 6 GB RAM Graphics: Nvidia GeForce GTX 570 (1.28GB) | AMD Radeon HD 7970 (3GB) | Intel Iris Xe G7 (Tiger Lake) DirectX: Version 9.0c Storage: 2 GB available space Sound Card: Direct X- compatible soundcard. Additional Notes: Mouse and keyboard are required. / Latest available WHQL drivers from both manufacturers. / Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode."
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: OS: macOS 10.14 (Mojave) Processor: Intel Core i5 @ 2.60 GHz or better Memory: 4 GB RAM Graphics: ATI Radeon HD 6970M Storage: 2 GB available space Additional Notes: Mouse and keyboard are required. / Latest available proprietary drivers / Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode.",
+                "Recommended": "Recommended: OS: OS: macOS 10.14 (Mojave) Processor: Intel Core i5 @ 2.90 GHz or better Memory: 8 GB RAM Graphics: ATI Radeon R9 390M or NVIDIA GeForce 750M with 1GB VRAM Storage: 2 GB available space Additional Notes: Mouse and keyboard are required. / Latest available proprietary drivers from both manufacturers/ Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode."
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: OS: Ubuntu 20.04 Processor: Intel Core 2 Quad Q9400 @ 2.66 GHz / AMD Athlon II X4 650 @ 3.20 GHz Memory: 4 GB RAM Graphics: ATI Radeon HD 5850 or NVIDIA GeForce GTX470 with 1GB VRAM / Latest available proprietary drivers from both manufacturers Storage: 2 GB available space Additional Notes: Controller support: 3-button mouse, keyboard, and speakers are required. / Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode.",
+                "Recommended": "Recommended: OS: OS: Ubuntu 20.04 Processor: Intel Core i5 750 @ 2.66 GHz / AMD Phenom II X4 955 @ 3.20 GHz Memory: 4 GB RAM Graphics: ATI Radeon HD 6950 or NVIDIA GeForce GTX570 with 2GB VRAM / Latest available proprietary drivers from both manufacturers Storage: 2 GB available space Additional Notes: Controller support: 3-button mouse, keyboard, and speakers are required. / Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode."
+            }
+        }
+    },
+    {
+        "name": "Borderlands 3",
+        "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 7/10 (latest service pack) Processor: AMD FX-8350 or Intel i5-3570 Memory: 6 GB RAM Graphics: AMD Radeon HD 7970 or NVIDIA GeForce GTX 680 2 GB DirectX: Version 11 Storage: 75 GB available space Sound Card: DirectX Compatible",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS *: Windows 7/10 (latest service pack) Processor: AMD Ryzen 5 2600 (Intel i7-4770) Memory: 16 GB RAM Graphics: AMD Radeon RX 590 or NVIDIA GeForce GTX 1060 6GB DirectX: Version 12 Storage: 75 GB available space Sound Card: DirectX Compatible"
+            }
+        }
+    },
+    {
+        "name": "Age of Empires II: Definitive Edition",
+        "description": "Age of Empires II: Definitive Edition features The Last Khans with 3 new campaigns and 4 new Civilizations. Frequent updates include events, additional content, new game modes, and enhanced features with the recent addition of Co-Op mode!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows 10 64bit Processor: Intel Core 2 Duo or AMD Athlon 64x2 5600+ Memory: 4 GB RAM Graphics: NVIDIA GeForce GT 420 or ATI Radeon HD 6850 or Intel HD Graphics 4000 or better with 2 GB VRAM DirectX: Version 11 Network: Broadband Internet connection Storage: 15 GB available space Additional Notes: 2GB of video memory + 4GB of system memory required",
+                "Recommended": "Recommended: OS: Windows 10 64bit Processor: 2.4 Ghz i5 or greater or AMD equivalent Memory: 8 GB RAM Graphics: Nvidia GTX 650 or AMD HD 5850 or better DirectX: Version 11 Network: Broadband Internet connection Storage: 15 GB available space"
+            }
+        }
+    },
+    {
+        "name": "DIRECT CONTACT",
+        "description": "Direct Contact is about Authentic Warfare, First-person Tactical realism experiences. Most weapons are in the same specs for each classification today, making most modern combat asymmetrical.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10, 11 Processor: Ryzen 5 3700 or intel i5 9400f Memory: 16 GB RAM Graphics: RTX 2080 SUPER Storage: 40 GB available space Additional Notes: Keyboard or Mouse",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10, 11 Processor: Ryzen 7 5800x or Higher, Intel Core i9 14900K Memory: 32 GB RAM Graphics: RTX 3080 or Higher Storage: 40 GB available space Additional Notes: Keyboard or Mouse"
+            }
+        }
+    },
+    {
+        "name": "Total War: WARHAMMER III",
+        "description": "The cataclysmic conclusion to the Total War: WARHAMMER trilogy is here. Rally your forces and step into the Realm of Chaos, a dimension of mind-bending horror where the very fate of the world will be decided. Will you conquer your Daemons or command them?",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS *: Windows 7 64-bit Processor: Intel i3/Ryzen 3 series Memory: 6 GB RAM Graphics: Nvidia GTX 900/AMD RX 400 series | Intel Iris Xe Graphics DirectX: Version 11 Storage: 120 GB available space Additional Notes: This game may be updated over time and have paid for and free. additional content released for it. Please be aware that this may increase the minimum requirements for running the game above the specification stated here.",
+                "Recommended": "Recommended: OS: Windows 10 64-bit Processor: Intel i5/Ryzen 5 series Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 1660 Ti/AMD RX 5600-XT/Intel Arc A750 DirectX: Version 11 Storage: 120 GB available space Additional Notes: 8GB Memory if using integrated GPU."
+            },
+            "Mac": {
+                "Minimum": "",
+                "Recommended": ""
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: Ubuntu 20.04 LTS Processor: 3.4GHz Intel Core i3-4130 or AMD Ryzen CPU equivalent Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 970 4GB or AMD Radeon RX 470 4GB Storage: 125 GB available space Additional Notes: Requires Vulkan, NVIDIA driver version 470.xx or later required (tested), AMD Mesa driver version 21.0.3 or later required (tested), Intel GPUs are not supported at the time of release",
+                "Recommended": "Recommended: OS: Ubuntu 20.04 LTS Processor: 3.4GHz Intel Core i7-4770 or AMD Ryzen CPU equivalent Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1070 8GB or AMD Radeon RX 5700 XT 8GB Storage: 125 GB available space Additional Notes: Requires Vulkan, NVIDIA driver version 470.xx or later required (tested), AMD Mesa driver version 21.0.3 or later required (tested), Intel GPUs are not supported at the time of release"
+            }
+        }
+    },
+    {
+        "name": "FINAL FANTASY XIV Online",
+        "description": "Join over 27 million adventurers worldwide and take part in an epic and ever-changing FINAL FANTASY. Experience an unforgettable story, exhilarating battles, and a myriad of captivating environments to explore.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64 bit, Windows 11 64 bit Processor: Intel Core i5 2.4GHz or higher Memory: 4 GB RAM Graphics: 1280 x 720: NVIDIA Geforce GTX750 or higher, AMD Radeon R7 260X or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 80 GB available space Sound Card: A sound card which supports DirectSound Additional Notes: System Requirements may be subject to change. If you are using a router, please set up your ports so that the below packets can pass through. [Ports that may be used] TCP 80, 443, 54992 54994, 55006 55007, 55021 55040",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64 bit, Windows 11 64 bit Processor: Intel Core i7 3GHz or higher Memory: 8 GB RAM Graphics: 1920 x 1080: NVIDIA Geforce GTX970 or higher AMD Radeon RX 480 or higher DirectX: Version 11 Network: Broadband Internet connection Storage: 80 GB available space Sound Card: A sound card which supports DirectSound Additional Notes: System Requirements may be subject to change. If you are using a router, please set up your ports so that the below packets can pass through. [Ports that may be used] TCP 80, 443, 54992 54994, 55006 55007, 55021 55040"
+            }
+        }
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri the Child of Prophecy, a living weapon that can alter the shape of the world.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS *: 64-bit Windows 7, 64-bit Windows 8 (8.1) Processor: Intel CPU Core i5-2500K 3.3GHz / AMD A10-5800K APU (3.8GHz) Memory: 6 GB RAM Graphics: Nvidia GPU GeForce GTX 660 / AMD GPU Radeon HD 7870 DirectX: Version 11 Storage: 50 GB available space",
+                "Recommended": "Recommended: OS: 64-bit Windows 10/11 Processor: Intel Core i5-7400 / Ryzen 5 1600 Memory: 8 GB RAM Graphics: Nvidia GTX 1070 / Radeon RX 480 DirectX: Version 12 Storage: 50 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Dune: Spice Wars",
+        "description": "A 4X real-time strategy game from the developers of the critically acclaimed Northgard. Set in Frank Herbert s groundbreaking Dune universe, you must lead your faction and battle for control and dominance over the harsh desert planet of Arrakis.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 and Windows 11 Processor: Intel Core i5 2.5 GHz / AMD Ryzen 5 Memory: 8 GB RAM Graphics: NVidia GTX 1050 / AMD RX550 Storage: 4 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 and Windows 11 Processor: Intel Core i7 2.8GHz / AMD Ryzen 7 Memory: 16 GB RAM Graphics: NVidia GTX 1080 / AMD 6600 Storage: 4 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: 64-bit Windows 10 Processor: Core i7-6700 or Ryzen 5 1600 Memory: 12 GB RAM Graphics: GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380 DirectX: Version 12 Storage: 70 GB available space Additional Notes: SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: 64-bit Windows 10 Processor: Core i7-12700 or Ryzen 7 7800X3D Memory: 16 GB RAM Graphics: GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770 DirectX: Version 12 Storage: 70 GB available space Additional Notes: SSD required."
+            }
+        }
+    },
+    {
+        "name": "Kerbal Space Program 2",
+        "description": "Kerbal Space Program 2 is the sequel to the acclaimed space-flight simulation game Kerbal Space Program. Enter the next generation of space adventure with exciting new parts, stunning visuals, fully revamped UI and Map View, and rich new environments to explore.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: AMD Athlon X4 845 @3.5 GHz or Intel Core i5 6400 @ 2.7 GHz Memory: 12 GB RAM Graphics: nVidia RTX 2060 w/ 6GB VRAM, nVidia GTX 1070 Ti w/8GB VRAM, AMD Radeon 5600XT w/ 6GB VRAM DirectX: Version 11 Storage: 45 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: Intel i5-11500 @ 2.7GHz or AMD Ryzen 5 3600 6-Core @ 3.6GHz Memory: 16 GB RAM Graphics: nVidia GeForce RTX 3080 or AMD Radeon RX 6800 XT DirectX: Version 11 Storage: 60 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Call of Duty : Warzone",
+        "description": "Welcome to Call of Duty : Warzone , the massive free-to-play combat arena which now features the brand-new map, Urzikstan.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64 Bit (latest update) Processor: Intel Core i3-6100 / Core i5-2500K or AMD Ryzen 3 1200 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 960 or AMD Radeon RX 470 - DirectX 12.0 compatible system DirectX: Version 12 Network: Broadband Internet connection Storage: 125 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64 Bit (latest update) or Windows 11 64 Bit (latest update) Processor: Intel Core i5-6600K / Core i7-4770 or AMD Ryzen 5 1400 Memory: 12 GB RAM Graphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580 - DirectX 12.0 compatible system DirectX: Version 12 Network: Broadband Internet connection Storage: 125 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Lords of the Fallen",
+        "description": "A vast world awaits in all-new, dark fantasy action-RPG, Lords of the Fallen. As one of the fabled Dark Crusaders, embark on an epic quest to overthrow Adyr, the demon God.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows 10 64bit Processor: intel i5 8400 | AMD Ryzen 5 2600 Memory: 12 GB RAM Graphics: 6GBs VRAM | NVIDIA GTX-1060 | AMD Radeon RX 590 DirectX: Version 12 Storage: 45 GB available space Additional Notes: 720p Low Quality Settings (30FPS) | SSD (Preferred) | HDD (Supported)",
+                "Recommended": "Recommended: OS: Windows 10 64bit Processor: intel i7 8700 | AMD Ryzen 5 3600 Memory: 16 GB RAM Graphics: 8GBs VRAM | NVIDIA RTX-2080 | AMD Radeon RX 6700 DirectX: Version 12 Network: Broadband Internet connection Storage: 45 GB available space Additional Notes: 1080p High Quality Settings (60FPS) | SSD Required"
+            }
+        }
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64 Bit Processor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz Memory: 4 GB RAM Graphics: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11) Storage: 110 GB available space Sound Card: 100% DirectX 10 compatible Additional Notes: Over time downloadable content and programming changes will change the system requirements for this game. Please refer to your hardware manufacturer and www.rockstargames.com/support for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher. Other requirements: Installation and online play requires log-in to Rockstar Games Social Club (13+) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Social Club platform, DirectX , Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication software that recognizes certain hardware attributes for entitlement, digital rights management, system, and other support purposes. SINGLE USE SERIAL CODE REGISTRATION VIA INTERNET REQUIRED; REGISTRATION IS LIMITED TO ONE ROCKSTAR GAMES SOCIAL CLUB ACCOUNT (13+) PER SERIAL CODE; ONLY ONE PC LOG-IN ALLOWED PER SOCIAL CLUB ACCOUNT AT ANY TIME; SERIAL CODE(S) ARE NON-TRANSFERABLE ONCE USED; SOCIAL CLUB ACCOUNTS ARE NON-TRANSFERABLE. Partner Requirements: Please check the terms of service of this site before purchasing this software.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64 Bit Processor: Intel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs) Memory: 8 GB RAM Graphics: NVIDIA GTX 660 2GB / AMD HD 7870 2GB Storage: 110 GB available space Sound Card: 100% DirectX 10 compatible"
+            }
+        }
+    },
+    {
+        "name": "Resident Evil 4",
+        "description": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 (64 bit) Processor: AMD Ryzen 3 1200 / Intel Core i5-7500 Memory: 8 GB RAM Graphics: AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAM DirectX: Version 12 Network: Broadband Internet connection Additional Notes: Estimated performance (when set to Prioritize Performance): 1080p/45fps. Framerate might drop in graphics-intensive scenes. AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2060 required to support ray tracing.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 (64 bit)/Windows 11 (64 bit) Processor: AMD Ryzen 5 3600 / Intel Core i7 8700 Memory: 16 GB RAM Graphics: AMD Radeon RX 5700 / NVIDIA GeForce GTX 1070 DirectX: Version 12 Network: Broadband Internet connection Additional Notes: Estimated performance: 1080p/60fps Framerate might drop in graphics-intensive scenes. AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2070 required to support ray tracing."
+            }
+        }
+    },
+    {
+        "name": "Dying Light 2 Stay Human: Reloaded Edition",
+        "description": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 7 Processor: Intel Core i3-9100 / AMD Ryzen 3 2300X Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1050 Ti / AMD Radeon RX 560 (4GB VRAM) Storage: 60 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Processor: AMD / Intel CPU running at 3.6 GHz or higher: AMD Ryzen 5 3600X or Intel i5-8600K or newer Memory: 16 GB RAM Graphics: NVIDIA GeForce RTX 2060 6GB or AMD RX Vega 56 8GB or newer Storage: 60 GB available space"
+            }
+        }
+    },
+    {
+        "name": "MONSTER HUNTER RISE",
+        "description": "Rise to the challenge and join the hunt! In Monster Hunter Rise, the latest installment in the award-winning and top-selling Monster Hunter series, you ll become a hunter, explore brand new maps and use a variety of weapons to take down fearsome monsters as part of an all-new storyline.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: Intel Core i3-4130 or Core i5-3470 or AMD FX -6100 Memory: 8 GB RAM Graphics: NVIDIA GeForce GT 1030 (DDR4) or AMD Radeon RX 550 DirectX: Version 12 Network: Broadband Internet connection Storage: 36 GB available space Additional Notes: 1080p/30fps when graphics settings are set to \"Low\".",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: Intel Core i5-4460 or AMD FX -8300 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1060 (VRAM 3GB) or AMD Radeon RX 570 (VRAM 4GB) DirectX: Version 12 Network: Broadband Internet connection Storage: 36 GB available space Additional Notes: 1080p/30fps when graphics settings are set to \"Average\"."
+            }
+        }
+    },
+    {
+        "name": "Stellaris",
+        "description": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows 10 Home 64 Bit Processor: Intel iCore i3-530 or AMD FX-6350 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 460 or AMD ATI Radeon HD 5870 (1GB VRAM), or AMD Radeon RX Vega 11 or Intel HD Graphics 4600 DirectX: Version 9.0c Network: Broadband Internet connection Storage: 10 GB available space Sound Card: Direct X 9.0c- compatible sound card Additional Notes: Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection",
+                "Recommended": "Recommended: OS: Windows 10 Home 64 Bit Processor: Intel iCore i5-3570K or AMD Ryzen 5 2400G Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 560 Ti (1GB VRAM) or AMD Radeon R7 370 (2 GB VRAM) DirectX: Version 12 Network: Broadband Internet connection Storage: 10 GB available space Sound Card: DirectX 9.0c-compatible sound card Additional Notes: Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: 10.11 (El Capitan) Processor: Intel iCore i5-4570S Memory: 8 GB RAM Graphics: Nvidia GeForce GT 750M or equivalent AMD card with 1GB Vram Network: Broadband Internet connection Storage: 10 GB available space Additional Notes: Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection",
+                "Recommended": "Recommended: OS: 10.13 (High Sierra) Processor: Intel iCore i5-4670 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 780M with 4GB Vram or AMD Radeon R7 370 (2 GB VRAM) Network: Broadband Internet connection Storage: 10 GB available space Additional Notes: Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection"
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: Ubuntu 20.04 x64 Processor: Intel iCore i3-530 or AMD FX-6350 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 460 or AMD ATI Radeon HD 5870 (1GB VRAM), or AMD Radeon RX Vega 11 or Intel HD Graphics 4600 Network: Broadband Internet connection Storage: 12 GB available space Sound Card: Direct X 9.0c- compatible sound card Additional Notes: Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection",
+                "Recommended": "Recommended: OS: Ubuntu 20.04 x64 Processor: Intel iCore i5-3570K or AMD Ryzen 5 2400G Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 560 Ti (1GB VRAM) or AMD Radeon R7 370 (2 GB VRAM) Network: Broadband Internet connection Storage: 12 GB available space Sound Card: Direct X 9.0c- compatible sound card Additional Notes: Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection"
+            }
+        }
+    },
+    {
+        "name": "iRacing",
+        "description": "We are the world s premier motorsports racing game. An iRacing membership provides entry into the newest form of motorsport: internet racing. Internet racing is a fun, easy, and inexpensive way for race fan and gamers alike to enjoy the thrill of the racetrack from the comfort of their home.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-Bit, Windows 11 64-Bit Processor: 4 core CPU or better Some examples (but not limited to): AMD FX-6300, Intel Core i5-4430, Intel Core i5-2320, AMD Ryzen 3 1200 Memory: 16 GB RAM Graphics: A gaming graphics card with at least 2GB of DEDICATED memory Some examples (but not limited to): Nvidia GeForce GTX 660 @ 2 GB / GTX 1050 or ATI Radeon HD 7850 @ 2GB / AMD RX 550 or better DirectX: Version 11 Network: Broadband Internet connection Storage: 16 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-Bit, Windows 11 64-Bit Processor: 8 core or more CPU (some examples but not limited to: Intel Core 9-10980XE @ 3.0GHz, Intel Core i9-9900KS @ 4.00GHz, AMD Ryzen 9 3900X, or AMD Ryzen 9 3950X) Memory: 32 GB RAM Graphics: Gaming graphics card with at least 8GB of DEDICATED memory (some examples but not limited to Nvidia 2080 TI or AMD Radeon VII) DirectX: Version 11 Network: Broadband Internet connection Storage: 32 GB available space"
+            }
+        }
+    },
+    {
+        "name": "The Sims 4 Crystal Creations Stuff Pack",
+        "description": "No description available.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: 64 Bit Required. Windows 10 Processor: 3.3 GHz Intel Core i3-3220 (2 cores, 4 threads), AMD Ryzen 3 1200 3.1 GHz (4 cores) or better Memory: 4 GB RAM Graphics: 128 MB of Video RAM and support for Pixel Shader 3.0. Supported Video Cards: NVIDIA GeForce 6600 or better, ATI Radeon X1300 or better, Intel GMA X4500 or better DirectX: Version 11 Network: Broadband Internet connection Storage: 26 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: 64 Bit Windows 10 Processor: Intel core i5 (4 cores), AMD Ryzen 5 or better Memory: 8 GB RAM Graphics: 1 GB of Video RAM, NVIDIA GTX 650, AMD Radeon HD 7750, or better DirectX: Version 11 Network: Broadband Internet connection Storage: 51 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Horizon Forbidden West Complete Edition",
+        "description": "Experience the epic Horizon Forbidden West in its entirety with bonus content and the Burning Shores expansion included. The Burning Shores add-on contains additional content for Aloy s adventure, including new storylines, characters, and experiences in a stunning yet hazardous new area.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: - Processor: - Graphics: - Sound Card: -",
+                "Recommended": "Recommended: OS: - Processor: - Graphics: - Sound Card: -"
+            }
+        }
+    },
+    {
+        "name": "American Truck Simulator",
+        "description": "Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS *: Windows 7 64-bit Processor: Intel Core i5-6400 or AMD Ryzen 3 1200 or similar Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM) Storage: 25 GB available space Additional Notes: Disk Space for American Truck Simulator base game",
+                "Recommended": "Recommended: OS *: Windows 7/8.1/10 64-bit Processor: Intel Core i5-9600 or AMD Ryzen 5 3600 or similar Memory: 12 GB RAM Graphics: NVIDIA GeForce GTX 1660 or AMD Radeon RX 590 (2GB VRAM) Storage: 25 GB available space Additional Notes: Disk Space for American Truck Simulator base game"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: Mac OS X 10.9 (Mavericks) Processor: Quad core CPU 3.3 GHz Memory: 8 GB RAM Graphics: Intel HD 630 or similar (2GB VRAM) Storage: 25 GB available space Additional Notes: Disk Space for American Truck Simulator base game",
+                "Recommended": "Recommended: OS: Mac OS X 10.10 (Yosemite) Processor: Quad core CPU 4.6 GHz Memory: 12 GB RAM Graphics: NVIDIA GeForce GTX 1660 or similar (2 GB VRAM) Storage: 25 GB available space Additional Notes: Disk Space for American Truck Simulator base game"
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: Ubuntu 14.04 64-bit Processor: Quad core CPU 3.3 GHz Memory: 8 GB RAM Graphics: Intel HD 630 or similar (2GB VRAM) Storage: 25 GB available space Additional Notes: Disk Space for American Truck Simulator base game",
+                "Recommended": "Recommended: OS: Ubuntu 14.04 64-bit Processor: Quad core CPU 4.6 GHz Memory: 12 GB RAM Graphics: NVIDIA GeForce GTX 1660 or similar (2 GB VRAM) Storage: 25 GB available space Additional Notes: Disk Space for American Truck Simulator base game"
+            }
+        }
+    },
+    {
+        "name": "SMITE",
+        "description": "Join 40+ million players in SMITE, the Battleground of the Gods! Wield Thor s hammer, turn your foes to stone as Medusa, or flex your divine power as one of 100+ other mythological icons. Become a God and play FREE today!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS *: Windows 7 64-bit or newer Processor: Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz Memory: 4 GB RAM Graphics: Nvidia GeForce 8800 GT Storage: 30 GB available space Sound Card: DirectX compatible sound card",
+                "Recommended": "Recommended: OS *: Windows 8/10 64-bit (latest Service Pack) Processor: Intel Core i5 or AMD Phenom II X3, 2.8 GHz Memory: 6 GB RAM Graphics: Nvidia GeForce GTX 660 or ATI Radeon HD 7950 Network: Broadband Internet connection Storage: 30 GB available space Sound Card: DirectX compatible sound card"
+            }
+        }
+    },
+    {
+        "name": "Oxygen Not Included",
+        "description": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 7 (64 bit) Processor: Dual Core 2 GHz Memory: 4 GB RAM Graphics: Intel HD 4600 (AMD or NVIDIA equivalent) DirectX: Version 11 Storage: 2 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: OSX 10.13 Processor: Dual Core 2 GHz Memory: 4 GB RAM Graphics: Intel HD 4600 (AMD or NVIDIA equivalent) Storage: 2 GB available space",
+                "Recommended": "Recommended:"
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: Ubuntu 18.04 Processor: Dual Core 2 GHz Memory: 4 GB RAM Graphics: Intel HD 4600 (AMD or NVIDIA equivalent) Storage: 2 GB available space",
+                "Recommended": "Recommended:"
+            }
+        }
+    },
+    {
+        "name": "STAR WARS : The Old Republic",
+        "description": "STAR WARS : The Old Republic is a free-to-play MMORPG that puts you at the center of your own story-driven saga. Play as a Jedi, Sith, Bounty Hunter, or one of many other iconic STAR WARS roles in the galaxy far, far away over three thousand years before the classic films.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "",
+                "Recommended": ""
+            }
+        }
+    },
+    {
+        "name": "Granblue Fantasy: Relink",
+        "description": "A grand adventure in the skies awaits! Form a party of four from a diverse roster of skyfarers and slash or shoot or hex your way to victory against treacherous foes in this action RPG. Take on quests solo or with the help of others in up to 4-player co-op play!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 (64-bit Required) Processor: Intel Core i3-9100 / AMD Ryzen 3 3200G Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB DirectX: Version 11 Storage: 90 GB available space Additional Notes: SSD recommended (Capable of 1080p/30fps when graphics are set to Standard.)",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 (64-bit Required) Processor: Intel Core i7-8700 / AMD Ryzen 5 3600 Memory: 16 GB RAM Graphics: NVIDIA GeForce RTX 2080 8GB / AMD Radeon RX 6700 XT 8GB DirectX: Version 11 Storage: 90 GB available space Additional Notes: SSD recommended (Capable of 1080p/60fps when graphics are set to Ultra.)"
+            }
+        }
+    },
+    {
+        "name": "ELDEN RING Shadow of the Erdtree",
+        "description": "No description available.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: INTEL CORE I5-8400 or AMD RYZEN 3 3300X Memory: 12 GB RAM Graphics: NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB DirectX: Version 12 Storage: 60 GB available space Sound Card: Windows Compatible Audio Device Additional Notes:",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10/11 Processor: INTEL CORE I7-8700K or AMD RYZEN 5 3600X Memory: 16 GB RAM Graphics: NVIDIA GEFORCE GTX 1070 8 GB or AMD RADEON RX VEGA 56 8 GB DirectX: Version 12 Storage: 60 GB available space Sound Card: Windows Compatible Audio Device Additional Notes:"
+            }
+        }
+    },
+    {
+        "name": "Persona 3 Reload",
+        "description": "Dive into the Dark Hour and awaken the depths of your heart. Persona 3 Reload is a captivating reimagining of the genre-defining RPG, reborn for the modern era with cutting-edge graphics and gameplay.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5-2300, AMD FX-4350 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 650 Ti, 2 GB; AMD Radeon HD 7850, 2 GB DirectX: Version 12 Storage: 30 GB available space Additional Notes: Performance Target: 720p, low graphics settings, @ 30 FPS",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7-4790, AMD Ryzen 5 1400 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1650, 4 GB, AMD Radeon R9 290X, 4 GB DirectX: Version 12 Storage: 30 GB available space Additional Notes: Performance Target: 1080p, high graphics settings, @ 60 FPS"
+            }
+        }
+    },
+    {
+        "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "description": "Cloud Strife, an ex-SOLDIER operative, descends on the mako-powered city of Midgar. The world of the timeless classic FINAL FANTASY VII is reborn, using cutting-edge graphics technology, a new battle system and an additional adventure featuring Yuffie Kisaragi.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-bit (ver. 2004 or later) Processor: AMD FX-8350 / Intel Core i5-3330 Memory: 8 GB RAM Graphics: AMD Radeon RX 480 / NVIDIA GeForce GTX 780 / 3GB VRAM required DirectX: Version 12 Storage: 100 GB available space Additional Notes: Assuming a Resolution of 1920 x 1080",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-bit (ver. 2004 or later) Processor: AMD Ryzen 3 3100 / Intel Core i7-3770 Memory: 12 GB RAM Graphics: AMD Radeon RX 5700 / NVIDIA GeForce GTX 1080 / 8GB VRAM required DirectX: Version 12 Storage: 100 GB available space Additional Notes: Assuming a Resolution of 2560 x 1440 (This title supports max resolution of 3840 x 2160)"
+            }
+        }
+    },
+    {
+        "name": "Europa Universalis IV",
+        "description": "Europa Universalis IV gives you control of a nation through four dramatic centuries. Rule your land and dominate the world with unparalleled freedom, depth and historical accuracy. Write a new history of the world and build an empire for the ages.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows 10 Home 64 bit Processor: Intel Core i3-2105 / AMD FX 4300 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 460 / AMD Radeon HD 5850 Video Memory: 1 GB RAM DirectX : 9.0c Hard Drive: 6 GB HD space Sound: Direct X- compatible soundcard Other Requirements: Broadband Internet connection Additional: Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer",
+                "Recommended": "Recommended: OS: Windows 10 Home 64 bit Processor: Intel Core i3 3240 / AMD FX 8120 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 560 Ti Video Memory: 1 GB RAM DirectX : 9.0c Hard Drive: 6 GB HD space Sound: Direct X-compatible soundcard Other Requirements: Broadband Internet connection Additional: Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: Mac OS Sierra 10.12 or better Processor: Intel Core 2 or equivalent Memory: 4 GB RAM Graphics: ATI Radeon HD 6750 / NVIDIA GeForce 320 / NVIDIA GeForce 9600 or higher, 1024MB graphics memory required Hard Drive: 6 GB HD space Other Requirements: Broadband Internet connection Additional: GLSL 1.3, OpenGL 2.1. Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer",
+                "Recommended": "Recommended: OS: Mac OS Sierra 10.12 or better Processor: Intel Core 2 or equivalent Memory: 8 GB RAM Graphics: ATI Radeon HD 6750 / NVIDIA GeForce 320 / NVIDIA GeForce 9600 or higher, 1024MB graphics memory required Hard Drive: 6 GB HD space Other Requirements: Broadband Internet connection Additional: GLSL 1.3, OpenGL 2.1. Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer"
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: 18.04 LTS (64 bit) Processor: Intel Core i3-2105 / AMD FX 4300 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 460 / AMD Radeon HD 5850 Video Memory: 1 GB RAMIDIA GeForce 9600 or higher, 1024MB graphics memory required Hard Drive: 6 GB HD space Other Requirements: Broadband Internet connection Additional: GLSL 1.3, OpenGL 2.1. Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer",
+                "Recommended": "Recommended: OS: 18.04 LTS (64 bit) Processor: Intel Core i3 3240 / AMD FX 8120 Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 560 Ti Video Memory: 1 GB RAM Hard Drive: 6 GB HD space Other Requirements: Broadband Internet connection Additional: GLSL 1.3, OpenGL 2.1. Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer"
+            }
+        }
+    },
+    {
+        "name": "Jurassic World Evolution 2",
+        "description": "Jurassic World Evolution 2 is the much-anticipated sequel to Frontier s highly successful Jurassic World Evolution. This bold new era in the Jurassic World Evolution game franchise builds upon the ground-breaking and immersive 2018 management simulation.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64bit (min version 1809) Processor: Intel i5-4590/AMD FX 8370 Memory: 8 GB RAM Graphics: (4GB VRAM) NVIDIA GeForce GTX 1050Ti (Legacy GPU: GeForce GTX 960) / AMD Radeon RX 470 DirectX: Version 12 Storage: 14 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64bit (min version 1809) Processor: Intel i7-5775C/AMD Ryzen 5 1500X Memory: 12 GB RAM Graphics: (6GB VRAM) NVIDIA GeForce GTX 1070 / AMD RX 570 (8GB) DirectX: Version 12 Storage: 14 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Yu-Gi-Oh! Master Duel",
+        "description": "Yu-Gi-Oh! MASTER DUEL is the ultimate free-to-play cross-platform strategy card game with fast-paced Duels, stunning HD graphics and a new, dynamic soundtrack! Get ready to challenge Duelists around the world!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Home (64bit) latest revision Processor: Intel Core i5-7300U Memory: 8 GB RAM Graphics: Intel(R) HD Graphics 620 DirectX: Version 11 Network: Broadband Internet connection Storage: 16 GB available space Sound Card: On Board Additional Notes: 1280 x 720 monitor resolution",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Home (64bit) latest revision Processor: Intel Core i5-9400F Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1650 DirectX: Version 11 Network: Broadband Internet connection Storage: 16 GB available space Sound Card: On Board Additional Notes: 1920 x 1080 monitor resolution"
+            }
+        }
+    },
+    {
+        "name": "PowerWash Simulator Warhammer 40,000 Special Pack",
+        "description": "No description available.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 8 (64-bit) or newer Processor: Intel i5-760 (4*2800), AMD Phenom II Memory: 4 GB RAM Graphics: GeForce GTX 760, AMD R7-260X DirectX: Version 11 Storage: 6 GB available space Additional Notes: Requires a 64-bit processor and operating system",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system"
+            }
+        }
+    },
+    {
+        "name": "HELLDIVERS 2",
+        "description": "The Galaxy s Last Line of Offence. Enlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7-4790K or AMD Ryzen 5 1500X Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 470 Storage: 100 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i7-9700K or AMD Ryzen 7 3700X Memory: 16 GB RAM Graphics: NVIDIA GeForce RTX 2060 or AMD Radeon RX 6600XT Storage: 100 GB available space Additional Notes: SSD Recommended"
+            }
+        }
+    },
+    {
+        "name": "Counter-Strike 2",
+        "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "",
+                "Recommended": ""
+            },
+            "Linux": {
+                "Minimum": "",
+                "Recommended": ""
+            }
+        }
+    },
+    {
+        "name": "Last Epoch",
+        "description": "Uncover the Past, Reforge the Future. Ascend into one of 15 mastery classes and explore dangerous dungeons, hunt epic loot, craft legendary weapons, and wield the power of over a hundred transformative skill trees. Last Epoch is being developed by a team of passionate Action RPG enthusiasts.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 7 Processor: Intel Core i5 2500 or AMD FX-4350 Memory: 8 GB RAM Graphics: nVidia GTX 1060 / AMD RX 580 with 6GB of VRAM DirectX: Version 11 Network: Broadband Internet connection Storage: 22 GB available space Additional Notes: SSD strongly recommended",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5 6500 or AMD Ryzen 3 1200 Memory: 16 GB RAM Graphics: nVidia RTX 3060 or AMD RX 6600-XT with 6GB+ GB of VRAM DirectX: Version 11 Network: Broadband Internet connection Storage: 22 GB available space Additional Notes: SSD strongly recommended"
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: Ubuntu 16.04 Processor: Intel Core i5 2500 or AMD FX-4350 Memory: 8 GB RAM Graphics: nVidia GTX 1060 / AMD RX 580 with 6GB of VRAM Network: Broadband Internet connection Storage: 22 GB available space Additional Notes: SSD strongly recommended",
+                "Recommended": "Recommended: OS: Ubuntu 20.04 Processor: Intel Core i5 6500 or AMD Ryzen 3 1200 Memory: 16 GB RAM Graphics: nVidia RTX 3060 or AMD RX 6600-XT with 6GB+ GB of VRAM Network: Broadband Internet connection Storage: 22 GB available space Additional Notes: SSD strongly recommended"
+            }
+        }
+    },
+    {
+        "name": "Baldur's Gate 3",
+        "description": "Baldur s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: Intel I5 4690 / AMD FX 8350 Memory: 8 GB RAM Graphics: Nvidia GTX 970 / RX 480 (4GB+ of VRAM) DirectX: Version 11 Storage: 150 GB available space Additional Notes: SSD required",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: Intel i7 8700K / AMD r5 3600 Memory: 16 GB RAM Graphics: Nvidia 2060 Super / RX 5700 XT (8GB+ of VRAM) DirectX: Version 11 Storage: 150 GB available space Additional Notes: SSD required"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: macOS 12 or newer Processor: Apple M1 Memory: 8 GB RAM Graphics: Apple M1 Storage: 150 GB available space Additional Notes: Min specs can run the game on low to medium settings. Splitscreen will not run at an acceptable level of performance. SSD required.",
+                "Recommended": "Recommended: OS: Latest macOS Processor: Apple M1 Pro or better Memory: 16 GB RAM Graphics: Apple M1 Pro or better Storage: 150 GB available space Additional Notes: Recommended specs can run the game on high or ultra settings. SSD required."
+            }
+        }
+    },
+    {
+        "name": "Pacific Drive",
+        "description": "Face the supernatural dangers of the Olympic Exclusion Zone with a car as your only lifeline in this driving survival adventure! Scavenge resources, load up your trusty station wagon, and drive like hell to make it through alive.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5 8600 Memory: 16 GB RAM Graphics: Nvidia GTX 1060 6GB DirectX: Version 12 Storage: 18 GB available space Additional Notes: Requires a 64-bit processor and operating system",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5-10600k Memory: 16 GB RAM Graphics: Nvidia RTX 2080/3070 DirectX: Version 12 Storage: 18 GB available space Additional Notes: Requires a 64-bit processor and operating system"
+            }
+        }
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "description": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS *: Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS Processor: Intel Core i3 560 @ 3.3 GHz or AMD Phenom II X4 945 @ 3.0 GHz Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 460 or AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM) Network: Broadband Internet connection Storage: 61 GB available space Sound Card: DirectX 9.0c compatible sound card with latest drivers Additional Notes: SUPPORTED VIDEO CARDS AT TIME OF RELEASE: GeForce GTX 460 or better, GTX 560 or better, GTX 650 or better, GTX 750 or better, or any card from the GT900 and Titan Series, Radeon HD5870 or better, HD6870 or better, HD7770 or better, R7 260X or better, or any card from the R-300 series and Fury X. Laptop models of these cards may work but are not supported. These chipsets are the only ones that will run this game. Additional chipsets may be supported after release. For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website: http://support.ubi.com . Game contains FairFight (https://www.gameblocks.com/products) and BattleEye (https://www.battleye.com/) anti-cheat technology.",
+                "Recommended": "Recommended: OS *: Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS Processor: Intel Core i5-2500K @ 3.3 GHz or better or AMD FX-8120 @ 3.1 Ghz or better Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 670 (or GTX 760 / GTX 960) or AMD Radeon HD 7970 (or R9 280x [2GB VRAM] / R9 380 / Fury X) Network: Broadband Internet connection Storage: 61 GB available space Sound Card: DirectX 9.0c compatible sound card 5.1 with latest drivers Additional Notes: SUPPORTED VIDEO CARDS AT TIME OF RELEASE: GeForce GTX 460 or better, GTX 560 or better, GTX 650 or better, GTX 750 or better, or any card from the GT900 and Titan Series, Radeon HD5870 or better, HD6870 or better, HD7770 or better, R7 260X or better, or any card from the R-300 series and Fury X. Laptop models of these cards may work but are not supported. These chipsets are the only ones that will run this game. Additional chipsets may be supported after release. For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website: http://support.ubi.com . Game contains FairFight (https://www.gameblocks.com/products) and BattleEye (https://www.battleye.com/) anti-cheat technology."
+            }
+        }
+    },
+    {
+        "name": "ELDEN RING",
+        "description": "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: INTEL CORE I5-8400 or AMD RYZEN 3 3300X Memory: 12 GB RAM Graphics: NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB DirectX: Version 12 Storage: 60 GB available space Sound Card: Windows Compatible Audio Device Additional Notes:",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10/11 Processor: INTEL CORE I7-8700K or AMD RYZEN 5 3600X Memory: 16 GB RAM Graphics: NVIDIA GEFORCE GTX 1070 8 GB or AMD RADEON RX VEGA 56 8 GB DirectX: Version 12 Storage: 60 GB available space Sound Card: Windows Compatible Audio Device Additional Notes:"
+            }
+        }
+    },
+    {
+        "name": "Balatro",
+        "description": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 7, 8, 10, 11 x64 Processor: Intel Core i3 Memory: 1 GB RAM Graphics: OpenGL 2.1 compatible graphics card, integrated graphics Storage: 50 MB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: OS X version 10.12 Sierra or later Processor: Intel Mac 2 GHz Memory: 1 GB RAM Graphics: 4 GB RAM Storage: 50 MB available space",
+                "Recommended": "Recommended:"
+            }
+        }
+    },
+    {
+        "name": "Robin Hood - Sherwood Builders",
+        "description": "Robin Hood - Sherwood Builders is an action-adventure RPG with base-building elements, where you take on the role of a classic hero who stands up to the tyranny and injustice that haunts Sherwood. Fight, craft, steal, and of course help the local people grow and prosper.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5-7500 / AMD Ryzen 5 1500X Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1050 Ti Storage: 65 GB available space Additional Notes: HDD required",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i3-12100 / AMD Ryzen 5 3600 Memory: 16 GB RAM Graphics: NVIDIA GeForce RTX 2060 Storage: 65 GB available space Additional Notes: SSD required"
+            }
+        }
+    },
+    {
+        "name": "Call of Duty",
+        "description": "Welcome to Call of Duty HQ, the home of Call of Duty : Modern Warfare III, Call of Duty : Modern Warfare II and Warzone .",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64 Bit (latest update) Processor: Intel Core i5-6600 or AMD Ryzen 5 1400 Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 960 / GTX 1650 or AMD Radeon RX 470 DirectX: Version 12 Network: Broadband Internet connection Additional Notes: SSD with 149 GB available space at launch (78 GB if COD HQ and Call of Duty : Warzone are already installed)",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64 Bit (latest update) or Windows 11 64 Bit (latest update) Processor: Intel Core i7-6700K or AMD Ryzen 5 1600X Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1080Ti / RTX 3060 or AMD Radeon RX 6600XT DirectX: Version 12 Network: Broadband Internet connection Additional Notes: SSD with 149 GB available space at launch (78 GB if COD HQ and Call of Duty : Warzone are already installed)"
+            }
+        }
+    },
+    {
+        "name": "Supermarket Simulator",
+        "description": "Run your own supermarket. Stock shelves, set prices as you'd like, take payments, hire staff, expand and design your store. Online orders & delivery, shoplifters, security, local market are upcoming.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows (64-bit) 10 Processor: i5 3550 / RYZEN 5 2500X Memory: 4 GB RAM Graphics: NVIDIA GTX 1050 / AMD R9 270X DirectX: Version 11 Storage: 5 GB available space",
+                "Recommended": "Recommended: OS: Windows (64-bit) 10 Processor: i5 7600K / Ryzen 5 2600x Memory: 8 GB RAM Graphics: NVIDIA GTX 1060 / AMD RX 480 DirectX: Version 11 Storage: 5 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Dragon's Dogma 2",
+        "description": "Dragon s Dogma 2 is a single player, narrative driven action-RPG that challenges the players to choose their own experience from the appearance of their Arisen, their vocation, their party, how to approach different situations and more - in a truly immersive fantasy world.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 (64 bit)/Windows 11 (64 bit) Processor: Intel Core i5 10600 / AMD Ryzen 5 3600 Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1070 / AMD Radeon RX 5500 XT with 8GB VRAM DirectX: Version 12 Network: Broadband Internet connection Additional Notes: Estimated performance: 1080p/30fps. Framerate might drop in graphics-intensive scenes. NVIDIA GeForce RTX 2080 Ti or AMD Radeon RX 6800 required to support ray tracing.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 (64 bit)/Windows 11 (64 bit) Processor: Intel Core i7-10700 / AMD Ryzen 5 3600X Memory: 16 GB RAM Graphics: NVIDIA GeForce RTX 2080 / AMD Radeon RX 6700 DirectX: Version 12 Network: Broadband Internet connection Additional Notes: Estimated performance: 2160i/30fps. Framerate might drop in graphics-intensive scenes. NVIDIA GeForce RTX 2080 Ti or AMD Radeon RX 6800 required to support ray tracing."
+            }
+        }
+    },
+    {
+        "name": "War Thunder",
+        "description": "War Thunder is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, and naval craft, from the early 20th century to the most advanced modern combat units. Join now and take part in major battles on land, in the air, and at sea.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows 10 (64bit) Processor: Dual-Core 2.2 GHz Memory: 4 GB RAM Graphics: DirectX 10.1 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p. DirectX: Version 11 Network: Broadband Internet connection Storage: 17 GB available space VR Support: SteamVR. Keyboard or gamepad required",
+                "Recommended": "Recommended: OS: Windows 10/11 (64bit) Processor: Intel Core i5 or Ryzen 5 3600 or better Memory: 16 GB RAM Graphics: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher DirectX: Version 12 Network: Broadband Internet connection Storage: 95 GB available space"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: Catalina 10.15 Processor: Core i5, minimum 2.2GHz (Intel Xeon is not supported) Memory: 6 GB RAM Graphics: Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia for Mac. Minimum supported resolution for the game is 720p with Metal support Network: Broadband Internet connection Storage: 17 GB available space",
+                "Recommended": "Recommended: OS: OS Big Sur v. 10.16 or newer Processor: Intel Core i7 (Xeon processors not supported) Memory: 8 GB RAM Graphics: Radeon Vega II or higher with Metal support Network: Broadband Internet connection Storage: 95 GB available space"
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: Most modern 64bit Linux distributions Processor: Dual-Core 2.4 GHz Memory: 4 GB RAM Graphics: NVIDIA 660 with latest proprietary drivers (not older than 6 months) / similar AMD with latest proprietary drivers (not older than 6 months; the minimum supported resolution for the game is 720p) with Vulkan support. Network: Broadband Internet connection Storage: 17 GB available space",
+                "Recommended": "Recommended: OS: Ubuntu 20.04 64bit Processor: Intel Core i7 Memory: 16 GB RAM Graphics: NVIDIA 1060 with latest proprietary drivers (not older than 6 months) / similar AMD (Radeon RX 570) with latest proprietary drivers (not older than 6 months) with Vulkan support. Network: Broadband Internet connection Storage: 95 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Apex Legends",
+        "description": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: 64-bit Windows 10 Processor: AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent Memory: 6 GB RAM Graphics: AMD Radeon HD 7730, NVIDIA GeForce GT 640 DirectX: Version 11 Network: Broadband Internet connection Storage: 75 GB available space Additional Notes: ~3.8GB for 1 localized language",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: 64-bit Windows 10 Processor: Ryzen 5 CPU or Equivalent Memory: 8 GB RAM Graphics: AMD Radeon R9 290, NVIDIA GeForce GTX 970 DirectX: Version 11 Network: Broadband Internet connection Storage: 75 GB available space Additional Notes: ~3.8GB for 1 localized language"
+            }
+        }
+    },
+    {
+        "name": "Palworld",
+        "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 or later (64-Bit) Processor: i5-3570K 3.4 GHz 4 Core Memory: 16 GB RAM Graphics: GeForce GTX 1050 (2GB) DirectX: Version 11 Network: Broadband Internet connection Storage: 40 GB available space Additional Notes: Internet connection required for multiplayer. SSD required.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 or later (64-Bit) Processor: i9-9900K 3.6 GHz 8 Core Memory: 32 GB RAM Graphics: GeForce RTX 2070 DirectX: Version 11 Network: Broadband Internet connection Storage: 40 GB available space Additional Notes: Internet connection required for multiplayer. SSD required."
+            }
+        }
+    },
+    {
+        "name": "STAR WARS : Dark Forces Remaster",
+        "description": "The evil Empire is currently creating a doomsday army behind a veil of secrecy. However, they are no match for the Rebel Alliance's covert operations division. Your mission is to infiltrate the Empire and put an end to their plans for terror and domination.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS *: Windows 7 (64-bit required) Processor: Intel or AMD Dual-Core at 2.0 GHz Memory: 2 GB RAM Graphics: GPU with DirectX 11 or Vulkan 1.1 support Storage: 420 MB available space Sound Card: 100% DirectX compatible sound card or onboard sound",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 (64-bit required) Processor: Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent Memory: 4 GB RAM Graphics: GPU with DirectX 11 or Vulkan 1.1 support Sound Card: 100% DirectX compatible sound card or onboard sound"
+            }
+        }
+    },
+    {
+        "name": "Enshrouded",
+        "description": "You are Flameborn, last ember of hope of a dying race. Awaken, survive the terror of a corrupting fog, and reclaim the lost beauty of your kingdom. Venture into a vast world, vanquish punishing bosses, build grand halls and forge your path in this co-op survival action RPG for up to 16 players.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5-6400 (2.7 GHz 4 Core) / AMD Ryzen 5 1500X (3.5 GHz 4 Core) or equivalent Memory: 16 GB RAM Graphics: NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM) / Intel ARC A380 Network: Broadband Internet connection Storage: 60 GB available space Sound Card: on board",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel i7-8700 (3.7 GHz 6 Core) / AMD Ryzen 7 2700X (3.7 GHz 8 Core) or equivalent Memory: 16 GB RAM Graphics: NVIDIA RTX 2070 Super (req. 6GB VRAM) / AMD Radeon RX 6700 XT (req. 6GB VRAM) / Intel ARC A770 Network: Broadband Internet connection Storage: 60 GB available space Sound Card: on board"
+            }
+        }
+    },
+    {
+        "name": "Dead by Daylight",
+        "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Operating System Processor: Intel Core i3-4170 or AMD FX-8120 Memory: 8 GB RAM Graphics: DX11 Compatible GeForce GTX 460 1GB or AMD HD 6850 1GB DirectX: Version 11 Network: Broadband Internet connection Storage: 50 GB available space Sound Card: DX11 compatible Additional Notes: With these requirements, it is recommended that the game is played on Low quality settings.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Operating System Processor: Intel Core i3-4170 or AMD FX-8300 or higher Memory: 8 GB RAM Graphics: DX11 Compatible GeForce 760 or AMD HD 8800 or higher with 4GB of RAM DirectX: Version 11 Network: Broadband Internet connection Storage: 50 GB available space Sound Card: DX11 compatible"
+            }
+        }
+    },
+    {
+        "name": "Disney Dreamlight Valley",
+        "description": "Explore a world filled with the magic of Disney as you discover rich stories and build the perfect neighborhood alongside Disney and Pixar heroes and villains in this new life-sim adventure game. Welcome to Disney Dreamlight Valley.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i3-540 or AMD Phenom II X4 940 Memory: 6 GB RAM Graphics: NVIDIA GeForce 9600 GT, 512 MB or AMD Radeon HD 6570, 1 GB DirectX: Version 10 Storage: 10 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Processor: Intel Core i5-4690 or AMD Ryzen 3 1300X Memory: 6 GB RAM Graphics: NVIDIA GeForce GTX 960, 4 GB or AMD Radeon R9 380, 4 GB DirectX: Version 11 Storage: 10 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Crusader Kings III",
+        "description": "Love, fight, scheme, and claim greatness. Determine your noble house s legacy in the sprawling grand strategy of Crusader Kings III. Death is only the beginning as you guide your dynasty s bloodline in the rich and larger-than-life simulation of the Middle Ages.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 Home 64 bit Processor: Intel Core i3-2120 / AMD FX 6350 Memory: 6 GB RAM Graphics: Nvidia GeForce GTX 660 (2GB) / AMD Radeon HD 7870 (2GB) / Intel Iris Pro 580 / Intel Iris Plus G7 / AMD Radeon Vega 11 Storage: 8 GB available space",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 Home 64 bit Processor: Intel Core i5-4670K / AMD Ryzen 5 2400G Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 1650 (4GB) / AMD Radeon R9 390X (8GB) Storage: 8 GB available space"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: Mojave (MAC OS X 10.14) Processor: Intel Core i7-7820HQ Memory: 12 GB RAM Graphics: AMD Radeon PRO 560 (4 GB) Storage: 8 GB available space",
+                "Recommended": "Recommended: OS: Mojave (MAC OS X 10.14) Processor: Intel Core i5-7600K Memory: 16 GB RAM Graphics: AMD Radeon PRO 580 (8GB) Storage: 8 GB available space"
+            },
+            "Linux": {
+                "Minimum": "Minimum: OS: Ubuntu 20.04 LTS Processor: Intel Core i3-2120 / AMD FX 6350 Memory: 4 GB RAM Graphics: Nvidia GeForce GTX 660 (2GB) / AMD Radeon HD 7870 (2GB) / Intel Iris Pro 580 / Intel Iris Plus G7 / AMD Radeon Vega 11 Storage: 8 GB available space",
+                "Recommended": "Recommended: OS: Ubuntu 20.04 LTS Processor: Intel Core i5-4670K / AMD Ryzen 5 2400G Memory: 8 GB RAM Graphics: Nvidia GeForce GTX 1650 (4GB) / AMD Radeon R9 390X (8GB) Storage: 8 GB available space"
+            }
+        }
+    },
+    {
+        "name": "Rust",
+        "description": "The only aim in Rust is to survive. Everything wants you to die - the island s wildlife and other inhabitants, the environment, other survivors. Do whatever it takes to last another night.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64bit Processor: Intel Core i7-3770 / AMD FX-9590 or better Memory: 10 GB RAM Graphics: GTX 670 2GB / AMD R9 280 better DirectX: Version 11 Network: Broadband Internet connection Storage: 25 GB available space Additional Notes: SSD is highly recommended or expect longer than average load times.",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 11 64bit Processor: Intel Core i7-4790K / AMD Ryzen 5 1600 Memory: 16 GB RAM Graphics: GTX 980 / AMD R9 Fury DirectX: Version 12 Network: Broadband Internet connection Storage: 25 GB available space Additional Notes: SSD Required"
+            },
+            "Mac": {
+                "Minimum": "Minimum: OS: OS X El Capitan 10.11 Processor: Intel Core i7-3770 / AMD FX-9590 or better Memory: 10 GB RAM Graphics: GTX 670 2GB / AMD R9 280 better Network: Broadband Internet connection Storage: 25 GB available space Additional Notes: Metal is required,",
+                "Recommended": "Recommended: OS: OS X El Capitan 10.11 Processor: Intel Core i7-4790K / AMD Ryzen 5 1600 Memory: 16 GB RAM Graphics: GTX 980 / AMD R9 Fury Network: Broadband Internet connection Storage: 25 GB available space Additional Notes: SSD is highly recommended or expect longer than average load times."
+            }
+        }
+    },
+    {
+        "name": "WWE 2K23",
+        "description": "WWE 2K23 is Even Stronger with expanded features, gorgeous graphics and a deep roster of WWE Superstars and Legends. 2K Showcase returns as an interactive sports documentary focusing on the 20-year career of John Cena and WarGames is finally here!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: Intel Core i5-3550 / AMD FX 8150 Memory: 8 GB RAM Graphics: GeForce GTX 1060 / Radeon RX 480 DirectX: Version 12 Storage: 80 GB available space Sound Card: DirectX 9.0c compatible sound card Additional Notes: SSD recommended, AVX - Compatible processor",
+                "Recommended": "Recommended: Requires a 64-bit processor and operating system OS: Windows 10 64-bit Processor: Intel i7-4790 / AMD FX 8350 Memory: 16 GB RAM Graphics: GeForce GTX 1070 / Radeon RX 580 DirectX: Version 12 Storage: 80 GB available space Sound Card: DirectX 9.0c compatible sound card Additional Notes: SSD recommended, AVX - Compatible processor"
+            }
+        }
+    },
+    {
+        "name": "EA SPORTS FC 24",
+        "description": "EA SPORTS FC 24 welcomes you to The World s Game: the most true-to-football experience ever with HyperMotionV, PlayStyles optimised by Opta, and an enhanced Frostbite Engine.",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows 10 - 64-Bit Processor: Intel Core i5-6600K @ 3.50GHz or AMD Ryzen 5 1600 @ 3.2 GHZ Memory: 8 GB RAM Graphics: NVIDIA GeForce GTX 1050 Ti 4GB or AMD Radeon RX 570 4GB DirectX: Version 12 Network: Broadband Internet connection Storage: 100 GB available space Additional Notes: DirectX: 12 Compatible video card or equivalent (feature level 12_0)",
+                "Recommended": "Recommended: OS: Windows 10 - 64-Bit Processor: Intel Core i7-6700 @ 3.40GHz or AMD Ryzen 7 2700X @ 3.7 GHZ Memory: 12 GB RAM Graphics: NVIDIA GeForce GTX 1660 or AMD RX 5600 XT DirectX: Version 12 Network: Broadband Internet connection Storage: 100 GB available space Additional Notes: DirectX: 12 Compatible video card or equivalent (feature level 12_0)"
+            }
+        }
+    },
+    {
+        "name": "Black Desert",
+        "description": "Played by over 20 million Adventurers - Black Desert Online is an open-world, action MMORPG. Experience intense, action-packed combat, battle massive world bosses, fight alongside friends to siege and conquer castles, and train in professions such as fishing, trading, crafting, cooking, and more!",
+        "system_requirements": {
+            "Win": {
+                "Minimum": "Minimum: OS: Windows 10 (64-bit) Processor: Intel Core i3-530 2.9 GHz Memory: 4 GB RAM Graphics: GTS 250, GeForce 9800 GTX, Radeon HD 3870 X2 Network: Broadband Internet connection Storage: 39 GB available space Additional Notes: Screen Resolution: 1280x720",
+                "Recommended": "Recommended: OS: Windows 10 (64-bit) Processor: Intel Core i5-650 3.2GHz Memory: 8 GB RAM Graphics: NVIDIA GTX 970, AMD RX 480 Network: Broadband Internet connection Storage: 39 GB available space Additional Notes: Screen Resolution: 1920x1080 or higher"
+            }
+        }
+    }
+]

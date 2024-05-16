@@ -1,4 +1,4 @@
-# Scraped Steam Game Info
+# Scraped Steam Game Info & Gpu hierarchy
 
 **A few games scraped from Steam**
 
@@ -14,3 +14,4 @@ This information was obtained using Beautiful Soup with Python.
 * Recommended Specs
 
 ***Please creddit if used :)***
+
